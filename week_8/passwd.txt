@@ -1,0 +1,4 @@
+Changing password for pavitra.
+passwd: password expiry information changed.
+passwd: password expiry information changed.
+passwd: password expiry information changed.

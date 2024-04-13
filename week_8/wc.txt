@@ -1,0 +1,4 @@
+ 4  6 28 sample.txt
+4 sample.txt
+6 sample.txt
+28 sample.txt

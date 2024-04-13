@@ -1,0 +1,32 @@
+ln
+hardlink
+check existing links
+-rwxrwxrwx 2 pavitra pavitra 0 Apr  3 16:47 ln1.txt
+softlink
+total 8
+-rwxrwxrwx 1 pavitra pavitra 264 Apr  3 16:34 bc.sh
+-rwxrwxrwx 1 pavitra pavitra 104 Apr  3 16:42 bc.txt
+-rwxrwxrwx 1 pavitra pavitra 194 Apr  3 16:46 comm.sh
+-rwxrwxrwx 1 pavitra pavitra 321 Apr  3 16:46 comm.txt
+-rwxrwxrwx 1 pavitra pavitra   0 Apr  3 16:29 cron.sh
+-rwxrwxrwx 1 pavitra pavitra 268 Apr  3 16:31 dd.sh
+-rwxrwxrwx 1 pavitra pavitra 109 Apr  3 16:41 dd.txt
+-rwxrwxrwx 1 pavitra pavitra 195 Apr  3 16:33 diff.sh
+-rwxrwxrwx 1 pavitra pavitra 879 Apr  3 16:43 diff.txt
+-rwxrwxrwx 1 pavitra pavitra  42 Apr  3 16:43 file1.txt
+-rwxrwxrwx 1 pavitra pavitra  32 Apr  3 16:41 file2.txt
+-rwxrwxrwx 1 pavitra pavitra  81 Apr  3 16:31 find.sh
+-rwxrwxrwx 1 pavitra pavitra 207 Apr  3 16:42 find.txt
+-rwxrwxrwx 1 pavitra pavitra  68 Apr  3 16:42 finger.sh
+-rwxrwxrwx 1 pavitra pavitra 499 Apr  3 16:42 finger.txt
+-rwxrwxrwx 1 pavitra pavitra   0 Apr  3 16:30 ftp.sh
+-rwxrwxrwx 1 pavitra pavitra 127 Apr  3 16:47 ln.sh
+-rwxrwxrwx 1 pavitra pavitra  94 Apr  3 16:48 ln.txt
+-rwxrwxrwx 2 pavitra pavitra   0 Apr  3 16:47 ln1.txt
+-rwxrwxrwx 1 pavitra pavitra   0 Apr  3 16:47 ln2.txt
+-rwxrwxrwx 1 pavitra pavitra 211 Apr  3 16:31 lock.sh
+-rwxrwxrwx 1 pavitra pavitra 132 Apr  3 16:37 lpstat.sh
+-rwxrwxrwx 1 pavitra pavitra  28 Apr  3 16:35 mesg.sh
+-rwxrwxrwx 2 pavitra pavitra   0 Apr  3 16:47 newln.txt
+lrwxrwxrwx 1 pavitra pavitra   7 Apr  3 16:48 softln.txt -> ln2.txt
+-rwxrwxrwx 1 pavitra pavitra  40 Apr  3 16:41 upper.txt

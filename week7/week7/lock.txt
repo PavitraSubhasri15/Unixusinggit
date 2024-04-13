@@ -1,0 +1,4 @@
+obtained a shared lock
+unlocking the file
+obtained an exclusive lock
+unlocking the file

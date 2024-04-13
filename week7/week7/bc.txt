@@ -1,0 +1,11 @@
+bc
+17
+17
+10
+logical operations
+1
+0
+1
+sine cosine operations
+.86602540376947310701
+.50000000002592107520

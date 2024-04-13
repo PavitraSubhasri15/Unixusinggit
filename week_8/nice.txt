@@ -1,0 +1,16 @@
+Directory contents:
+total 0
+-rwxrwxrwx 1 pavitra pavitra 0 Apr  6 10:06 f1.txt
+-rwxrwxrwx 1 pavitra pavitra 0 Apr  6 10:06 f2.txt
+Updated directory contents:
+total 0
+-rwxrwxrwx 1 pavitra pavitra 0 Apr  6 10:06 copied_file.txt
+-rwxrwxrwx 1 pavitra pavitra 0 Apr  6 10:06 f1.txt
+-rwxrwxrwx 1 pavitra pavitra 0 Apr  6 10:06 f2.txt
+Updated directory contents after moving file2.txt:
+total 0
+-rwxrwxrwx 1 pavitra pavitra 0 Apr  6 10:06 copied_file.txt
+-rwxrwxrwx 1 pavitra pavitra 0 Apr  6 10:06 f1.txt
+-rwxrwxrwx 1 pavitra pavitra 0 Apr  6 10:06 moved_file.txt
+Executing 'ls' command remotely...
+Files and directory removed.

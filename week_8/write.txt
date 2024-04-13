@@ -1,0 +1,20 @@
+write
+hello
+hello.c
+more.sh
+more.txt
+nice.sh
+nice.txt
+nl.sh
+pr.sh
+rcp.sh
+rsh.sh
+tty.sh
+uname.sh
+wc.sh
+who.sh
+who.txt
+write.sh
+write.txt
+/mnt/c/Users/PAVITRA/Desktop/unix_1/week_8
+hello , world!!!!

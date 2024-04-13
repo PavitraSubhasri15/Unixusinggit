@@ -1,0 +1,15 @@
+Login: pavitra        			Name: 
+Directory: /home/pavitra            	Shell: /bin/bash
+On since Wed Apr  3 14:09 (IST) on pts/1   2 hours 33 minutes idle
+     (messages off)
+No mail.
+No Plan.
+ 
+Login     Name       Tty      Idle  Login Time   Office     Office Phone
+pavitra             *pts/1    2:33  Apr  3 14:09
+ 
+Login: pavitra        			Name: 
+Directory: /home/pavitra            	Shell: /bin/bash
+On since Wed Apr  3 14:09 (IST) on pts/1   2 hours 33 minutes idle
+     (messages off)
+No mail.

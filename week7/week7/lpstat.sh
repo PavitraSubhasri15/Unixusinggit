@@ -1,0 +1,14 @@
+echo "1"
+lpstat -a
+echo "2"
+lpstat -d
+echo "3"
+lpstat -o
+echo "4"
+lpstat -p
+echo "5"
+lpstat -r
+echo "6"
+lpstat -s
+echo "7"
+lpstat -t

@@ -1,0 +1,4 @@
+chgrp
+pavitra adm dialout cdrom floppy sudo audio dip video plugdev netdev
+-rwxrwxrwx 1 pavitra pavitra 42 Apr  3 16:43 file1.txt
+changing groups of of multiple files

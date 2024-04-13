@@ -1,0 +1,19 @@
+contents of file1
+hey 
+nice to meet you!
+this is Pavitra
+contents of file2.txt
+is is Pavitra
+nice to meet you!comparing two files
+hey 
+	is is Pavitra
+	nice to meet you!
+nice to meet you!
+this is Pavitra
+is is Pavitra
+nice to meet you!
+hey 
+	is is Pavitra
+	nice to meet you!
+nice to meet you!
+this is Pavitra
